@@ -1,4 +1,4 @@
-# Our Best Project
+# CrystalClear Audio
 
 Это наш первый совместный проект на GitHub.
 
