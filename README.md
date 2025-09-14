@@ -1,2 +1,10 @@
-# Equalizer-practical-work
-student work for practical work on developing an application, in this case - an audio filter application
+# Our Best Project
+
+Это наш первый совместный проект на GitHub.
+
+## Участники:
+- [Участник A](ссылка на профиль GitHub)
+- [Участник B](ссылка на профиль GitHub)
+
+## Цель проекта:
+Научиться работать с Git и GitHub в команде.
