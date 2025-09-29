@@ -28,3 +28,5 @@
 ## Список источников: 
 https://chatgpt.com
 https://chat.deepseek.com
+
+Методичка по которой идёт работа - https://github.com/moerias/metodical_IS-23/tree/main
